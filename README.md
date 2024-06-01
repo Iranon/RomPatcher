@@ -1,5 +1,7 @@
 # Rom Patcher JS
-A ROM patcher made in HTML5.
+A ROM patcher made in HTML5 and running in [Electron](https://www.electronjs.org/).
+
+#### Run with `npm run start` (*[Node.js](https://nodejs.org/) required*)
 
 **Features:**
 * Supported formats:

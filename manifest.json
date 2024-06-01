@@ -3,22 +3,22 @@
 	"name":"Rom Patcher JS",
 	"icons":[
 		{
-			"src": "style/app_icon_114.png",
+			"src": "src/style/app_icon_114.png",
 			"sizes": "114x114",
 			"type": "image/png",
 			"density": "1.0"
 		},{
-			"src": "style/app_icon_144.png",
+			"src": "src/style/app_icon_144.png",
 			"sizes": "144x144",
 			"type": "image/png",
 			"density": "1.0"
 		},{
-			"src": "style/app_icon_192.png",
+			"src": "src/style/app_icon_192.png",
 			"sizes": "192x192",
 			"type": "image/png",
 			"density": "1.0"
 		},{
-			"src": "style/app_icon_maskable.png",
+			"src": "src/style/app_icon_maskable.png",
 			"sizes": "192x192",
 			"type": "image/png",
 			"purpose": "any maskable"

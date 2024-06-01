@@ -1,0 +1,32 @@
+{
+  "name": "rompatcher",
+  "description": "A ROM patcher made in HTML5 running as a cross-platform desktop app",
+  "private": true,
+  "version": "1.0.0",
+  "main": "./src/main.js",
+  "scripts": {
+    "start": "electron ./src/main.js"
+  },
+  "devDependencies": {
+    "electron": "^30.0.9"
+  },
+  "author": {
+    "name": "Marc Robledo",
+    "url": "https://www.marcrobledo.com/"
+  },
+  "contributors": [
+    {
+      "name": "Iranon",
+      "url": "https://github.com/Iranon"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "ips",
+    "patcher",
+    "rom",
+    "romhacking",
+    "ups"
+  ],
+  "homepage": "https://www.marcrobledo.com/RomPatcher.js/"
+}
